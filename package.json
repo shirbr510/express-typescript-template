@@ -1,0 +1,25 @@
+{
+  "name": "express-typescript-template",
+  "version": "1.0.0",
+  "description": "A simplified template of express & typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirbr510/express-typescript-template.git"
+  },
+  "keywords": [
+    "typescript",
+    "express",
+    "node",
+    "rest"
+  ],
+  "author": "Shir Brass",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/shirbr510/express-typescript-template/issues"
+  },
+  "homepage": "https://github.com/shirbr510/express-typescript-template#readme"
+}
